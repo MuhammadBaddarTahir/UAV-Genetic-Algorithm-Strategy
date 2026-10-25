@@ -1,0 +1,58 @@
+[
+  {
+    "setting": "Small population",
+    "population": 30,
+    "mutation": 0.12,
+    "tournament_k": 3,
+    "best_fitness": 162.3269319617646,
+    "mean_last10": 145.09744280981215
+  },
+  {
+    "setting": "Default population",
+    "population": 70,
+    "mutation": 0.12,
+    "tournament_k": 3,
+    "best_fitness": 213.77021375757434,
+    "mean_last10": 202.6968335303702
+  },
+  {
+    "setting": "Large population",
+    "population": 120,
+    "mutation": 0.12,
+    "tournament_k": 3,
+    "best_fitness": 220.53214526820904,
+    "mean_last10": 216.70118745837254
+  },
+  {
+    "setting": "Low mutation",
+    "population": 70,
+    "mutation": 0.04,
+    "tournament_k": 3,
+    "best_fitness": 204.62505462208767,
+    "mean_last10": 198.94055255764718
+  },
+  {
+    "setting": "High mutation",
+    "population": 70,
+    "mutation": 0.28,
+    "tournament_k": 3,
+    "best_fitness": 148.19268629554813,
+    "mean_last10": 144.46719194501466
+  },
+  {
+    "setting": "Weak selection",
+    "population": 70,
+    "mutation": 0.12,
+    "tournament_k": 2,
+    "best_fitness": 211.11206611775017,
+    "mean_last10": 192.31957152462329
+  },
+  {
+    "setting": "Strong selection",
+    "population": 70,
+    "mutation": 0.12,
+    "tournament_k": 5,
+    "best_fitness": 218.81246601119082,
+    "mean_last10": 211.33726955005267
+  }
+]
